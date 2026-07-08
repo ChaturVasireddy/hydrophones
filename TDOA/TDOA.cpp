@@ -18,8 +18,8 @@ int main() {
     PIO pio_data0;
     uint sm_data0;
     uint offset_data0;
-    bool success_data0 = pio_claim_free_sm_and_add_program_for_gpio_range(&clock_program, &pio_data0, &sm_data0, &offset_data0, 0, 1, true);
+    bool success_data0 = pio_claim_free_sm_and_add_program_for_gpio_range(&clock_program, &pio_data0, &sm_data0, &offset_data0, 8, 1, true);
     hard_assert(success_data0);
 
-    clock_program_init(pio_data0, sm_data0, offset_data0, 9);
+    clock_program_init(pio_data0, sm_data0, offset_data0, 8);
 }
