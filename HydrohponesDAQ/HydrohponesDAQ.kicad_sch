@@ -93,7 +93,7 @@
 							)
 						)
 					)
-					(number "0"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -111,7 +111,7 @@
 							)
 						)
 					)
-					(number "1"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -129,7 +129,7 @@
 							)
 						)
 					)
-					(number "2"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -147,7 +147,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -165,7 +165,7 @@
 							)
 						)
 					)
-					(number "4"
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -183,7 +183,7 @@
 							)
 						)
 					)
-					(number "5"
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -201,7 +201,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -219,7 +219,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -237,7 +237,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -255,7 +255,7 @@
 							)
 						)
 					)
-					(number "9"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7939,7 +7939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DBV0005A-IPC_A"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering"
 			(at 176.53 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -8109,7 +8109,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 385.7752 367.03 0)
 			(hide yes)
 			(show_name no)
@@ -8189,7 +8189,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 95.25 63.8048 0)
 			(hide yes)
 			(show_name no)
@@ -8269,7 +8269,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 77.47 39.878 90)
 			(hide yes)
 			(show_name no)
@@ -8428,7 +8428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical"
 			(at 464.82 127 0)
 			(hide yes)
 			(show_name no)
@@ -8482,7 +8482,7 @@
 		(pin "3"
 			(uuid "9edc38fc-1df2-480a-b26f-8305dd0ab900")
 		)
-		(pin "0"
+		(pin "10"
 			(uuid "96ee7ddc-4bd4-439c-ba2a-195a9fc581fb")
 		)
 		(pin "1"
@@ -8846,7 +8846,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 143.002 351.79 90)
 			(hide yes)
 			(show_name no)
@@ -9082,7 +9082,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 309.88 176.8348 0)
 			(hide yes)
 			(show_name no)
@@ -9164,7 +9164,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 156.5148 374.65 0)
 			(hide yes)
 			(show_name no)
@@ -9402,7 +9402,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 384.5052 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -9637,7 +9637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 299.72 168.148 90)
 			(hide yes)
 			(show_name no)
@@ -9875,7 +9875,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 82.8548 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -10111,7 +10111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DBV0005A-IPC_A"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering"
 			(at 34.29 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -10202,7 +10202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 259.08 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -10373,7 +10373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 35.56 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -10454,7 +10454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MSOP10_MS_MCH"
+		(property "Footprint" "Package_SO:MSOP-10_3x3mm_P0.5mm"
 			(at 334.01 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -10637,7 +10637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 227.33 213.868 90)
 			(hide yes)
 			(show_name no)
@@ -10873,7 +10873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 237.49 287.3248 0)
 			(hide yes)
 			(show_name no)
@@ -10956,7 +10956,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 161.5948 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -11035,7 +11035,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 300.99 338.328 90)
 			(hide yes)
 			(show_name no)
@@ -11193,7 +11193,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 220.98 290.068 90)
 			(hide yes)
 			(show_name no)
@@ -11273,7 +11273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 152.4 93.0148 0)
 			(hide yes)
 			(show_name no)
@@ -11431,7 +11431,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 222.25 373.888 90)
 			(hide yes)
 			(show_name no)
@@ -11513,7 +11513,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 215.5952 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -11593,7 +11593,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 308.61 93.0148 0)
 			(hide yes)
 			(show_name no)
@@ -11909,7 +11909,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 300.0248 374.65 0)
 			(hide yes)
 			(show_name no)
@@ -12225,7 +12225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 141.732 267.97 90)
 			(hide yes)
 			(show_name no)
@@ -12305,7 +12305,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 309.88 263.1948 0)
 			(hide yes)
 			(show_name no)
@@ -12464,7 +12464,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 90.17 39.878 90)
 			(hide yes)
 			(show_name no)
@@ -12544,7 +12544,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 186.69 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -12635,7 +12635,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 238.76 371.1448 0)
 			(hide yes)
 			(show_name no)
@@ -12717,7 +12717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.212 349.25 90)
 			(hide yes)
 			(show_name no)
@@ -13189,7 +13189,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 43.942 265.43 90)
 			(hide yes)
 			(show_name no)
@@ -13268,7 +13268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 293.37 179.578 90)
 			(hide yes)
 			(show_name no)
@@ -13347,7 +13347,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 280.67 265.938 90)
 			(hide yes)
 			(show_name no)
@@ -13427,7 +13427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 257.81 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -13517,7 +13517,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 292.1 95.758 90)
 			(hide yes)
 			(show_name no)
@@ -13753,7 +13753,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 139.7 93.0148 0)
 			(hide yes)
 			(show_name no)
@@ -13836,7 +13836,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 136.1948 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -13916,7 +13916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 55.88 347.218 90)
 			(hide yes)
 			(show_name no)
@@ -13998,7 +13998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 214.3252 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -14080,7 +14080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 140.462 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -14162,7 +14162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 34.29 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -14242,7 +14242,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 163.83 349.758 90)
 			(hide yes)
 			(show_name no)
@@ -14323,7 +14323,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 286.0548 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -14403,7 +14403,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MSOP10_MS_MCH"
+		(property "Footprint" "Package_SO:MSOP-10_3x3mm_P0.5mm"
 			(at 335.28 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -14512,7 +14512,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 19.3548 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -14592,7 +14592,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 115.57 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -14683,7 +14683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 96.52 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -14852,7 +14852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 53.34 93.218 90)
 			(hide yes)
 			(show_name no)
@@ -15088,7 +15088,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 54.61 263.398 90)
 			(hide yes)
 			(show_name no)
@@ -15246,7 +15246,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 96.52 233.9848 0)
 			(hide yes)
 			(show_name no)
@@ -15482,7 +15482,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 153.67 263.1948 0)
 			(hide yes)
 			(show_name no)
@@ -15563,7 +15563,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 211.1248 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -15723,7 +15723,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 155.2448 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -15883,7 +15883,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 35.56 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -15963,7 +15963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 260.35 374.65 0)
 			(hide yes)
 			(show_name no)
@@ -16054,7 +16054,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MSOP10_MS_MCH"
+		(property "Footprint" "Package_SO:MSOP-10_3x3mm_P0.5mm"
 			(at 336.55 367.03 0)
 			(hide yes)
 			(show_name no)
@@ -16160,7 +16160,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 162.56 265.938 90)
 			(hide yes)
 			(show_name no)
@@ -16243,7 +16243,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 227.6348 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -16401,7 +16401,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 286.0548 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -16482,7 +16482,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 287.3248 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -16641,7 +16641,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 318.4652 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -16720,7 +16720,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 208.28 290.068 90)
 			(hide yes)
 			(show_name no)
@@ -16880,7 +16880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 216.8652 372.11 0)
 			(hide yes)
 			(show_name no)
@@ -17039,7 +17039,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 69.5452 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -17198,7 +17198,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 383.2352 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -17359,7 +17359,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 226.3648 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -17516,7 +17516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 280.67 179.578 90)
 			(hide yes)
 			(show_name no)
@@ -17598,7 +17598,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 42.672 95.25 90)
 			(hide yes)
 			(show_name no)
@@ -17915,7 +17915,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 297.4848 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -18307,7 +18307,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 97.79 317.8048 0)
 			(hide yes)
 			(show_name no)
@@ -18464,7 +18464,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 298.45 84.328 90)
 			(hide yes)
 			(show_name no)
@@ -18543,7 +18543,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 226.06 130.048 90)
 			(hide yes)
 			(show_name no)
@@ -18624,7 +18624,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 319.7352 369.57 0)
 			(hide yes)
 			(show_name no)
@@ -18782,7 +18782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 115.57 290.83 0)
 			(hide yes)
 			(show_name no)
@@ -18873,7 +18873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 93.98 330.708 90)
 			(hide yes)
 			(show_name no)
@@ -18953,7 +18953,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 140.97 176.8348 0)
 			(hide yes)
 			(show_name no)
@@ -19032,7 +19032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 281.94 349.758 90)
 			(hide yes)
 			(show_name no)
@@ -19112,7 +19112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 186.69 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -19203,7 +19203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC8_D_TEX"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 72.39 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -19306,7 +19306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 120.9548 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -19386,7 +19386,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MSOP10_MS_MCH"
+		(property "Footprint" "Package_SO:MSOP-10_3x3mm_P0.5mm"
 			(at 335.28 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -19492,7 +19492,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 92.71 246.888 90)
 			(hide yes)
 			(show_name no)
@@ -19551,7 +19551,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "93ac2a6d-488a-4769-a32f-4078bad5bf21")
-		(property "Reference" "C65"
+		(property "Reference" "CT3"
 			(at 327.406 273.304 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19573,7 +19573,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_HandSolder"
 			(at 334.3148 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -19615,7 +19615,7 @@
 		(instances
 			(project "HydrohponesDAQ"
 				(path "/da60002a-de62-4258-a7ce-9200929797ab"
-					(reference "C65")
+					(reference "CT3")
 					(unit 1)
 				)
 			)
@@ -19811,7 +19811,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 36.83 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -20125,7 +20125,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 207.01 119.888 90)
 			(hide yes)
 			(show_name no)
@@ -20205,7 +20205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DBV0005A-IPC_A"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering"
 			(at 238.76 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -20376,7 +20376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 43.942 179.07 90)
 			(hide yes)
 			(show_name no)
@@ -20456,7 +20456,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 161.29 95.758 90)
 			(hide yes)
 			(show_name no)
@@ -20535,7 +20535,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 209.55 373.888 90)
 			(hide yes)
 			(show_name no)
@@ -20695,7 +20695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal"
 			(at 458.47 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20774,7 +20774,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 208.28 203.708 90)
 			(hide yes)
 			(show_name no)
@@ -20931,7 +20931,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 220.98 203.708 90)
 			(hide yes)
 			(show_name no)
@@ -21089,7 +21089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 54.61 177.038 90)
 			(hide yes)
 			(show_name no)
@@ -21169,7 +21169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC8_D_TEX"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 73.66 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -21350,7 +21350,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 223.8248 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -21899,7 +21899,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 160.02 251.7648 0)
 			(hide yes)
 			(show_name no)
@@ -22037,7 +22037,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac1e2947-5f47-423b-a796-994151295733")
-		(property "Reference" "C37"
+		(property "Reference" "CT2"
 			(at 327.406 186.944 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22059,7 +22059,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_HandSolder"
 			(at 334.3148 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -22101,7 +22101,7 @@
 		(instances
 			(project "HydrohponesDAQ"
 				(path "/da60002a-de62-4258-a7ce-9200929797ab"
-					(reference "C37")
+					(reference "CT2")
 					(unit 1)
 				)
 			)
@@ -22139,7 +22139,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 142.24 347.0148 0)
 			(hide yes)
 			(show_name no)
@@ -22297,7 +22297,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 154.94 347.0148 0)
 			(hide yes)
 			(show_name no)
@@ -22454,7 +22454,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 219.71 119.888 90)
 			(hide yes)
 			(show_name no)
@@ -22535,7 +22535,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 317.1952 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -22615,7 +22615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 114.3 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -22708,7 +22708,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 298.7548 290.83 0)
 			(hide yes)
 			(show_name no)
@@ -22788,7 +22788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC8_D_TEX"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 71.12 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -23043,7 +23043,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 237.49 200.9648 0)
 			(hide yes)
 			(show_name no)
@@ -23123,7 +23123,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 185.42 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -23294,7 +23294,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 155.2448 290.83 0)
 			(hide yes)
 			(show_name no)
@@ -23452,7 +23452,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 311.15 347.0148 0)
 			(hide yes)
 			(show_name no)
@@ -23531,7 +23531,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 293.37 265.938 90)
 			(hide yes)
 			(show_name no)
@@ -23770,7 +23770,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 122.2248 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -24006,7 +24006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 187.96 345.44 0)
 			(hide yes)
 			(show_name no)
@@ -24256,7 +24256,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 119.6848 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -24492,7 +24492,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 153.67 176.8348 0)
 			(hide yes)
 			(show_name no)
@@ -24574,7 +24574,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 298.7548 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -24811,7 +24811,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 384.5052 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -24890,7 +24890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 279.4 95.758 90)
 			(hide yes)
 			(show_name no)
@@ -24969,7 +24969,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 299.72 254.508 90)
 			(hide yes)
 			(show_name no)
@@ -25127,7 +25127,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 91.44 76.708 90)
 			(hide yes)
 			(show_name no)
@@ -25207,7 +25207,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 160.02 165.4048 0)
 			(hide yes)
 			(show_name no)
@@ -25286,7 +25286,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 227.33 300.228 90)
 			(hide yes)
 			(show_name no)
@@ -25501,7 +25501,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d42ad1ac-d8cb-4bc5-a594-95beab4b02f0")
-		(property "Reference" "C22"
+		(property "Reference" "CT1"
 			(at 326.136 103.124 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25523,7 +25523,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_HandSolder"
 			(at 333.0448 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -25565,7 +25565,7 @@
 		(instances
 			(project "HydrohponesDAQ"
 				(path "/da60002a-de62-4258-a7ce-9200929797ab"
-					(reference "C22")
+					(reference "CT1")
 					(unit 1)
 				)
 			)
@@ -25606,7 +25606,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 226.3648 261.62 0)
 			(hide yes)
 			(show_name no)
@@ -25919,7 +25919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 259.08 290.83 0)
 			(hide yes)
 			(show_name no)
@@ -26009,7 +26009,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 228.6 384.048 90)
 			(hide yes)
 			(show_name no)
@@ -26167,7 +26167,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 162.56 179.578 90)
 			(hide yes)
 			(show_name no)
@@ -26246,7 +26246,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 294.64 349.758 90)
 			(hide yes)
 			(show_name no)
@@ -26328,7 +26328,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 215.5952 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -26410,7 +26410,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 153.9748 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -26491,7 +26491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 284.7848 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -27197,7 +27197,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 161.29 335.5848 0)
 			(hide yes)
 			(show_name no)
@@ -27277,7 +27277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC8_D_TEX"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 72.39 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -27768,7 +27768,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 92.71 160.528 90)
 			(hide yes)
 			(show_name no)
@@ -27851,7 +27851,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 225.0948 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -28321,7 +28321,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 236.22 117.1448 0)
 			(hide yes)
 			(show_name no)
@@ -28401,7 +28401,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 158.75 81.5848 0)
 			(hide yes)
 			(show_name no)
@@ -28638,7 +28638,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 96.52 147.6248 0)
 			(hide yes)
 			(show_name no)
@@ -28719,7 +28719,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 273.3548 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -28778,7 +28778,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9f87d18-5895-4cb1-b62e-4e0aec235f18")
-		(property "Reference" "C66"
+		(property "Reference" "CT4"
 			(at 328.676 357.124 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28800,7 +28800,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_HandSolder"
 			(at 335.5848 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -28842,7 +28842,7 @@
 		(instances
 			(project "HydrohponesDAQ"
 				(path "/da60002a-de62-4258-a7ce-9200929797ab"
-					(reference "C66")
+					(reference "CT4")
 					(unit 1)
 				)
 			)
@@ -28881,7 +28881,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 318.4652 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -28961,7 +28961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DCK5_TEX"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
 			(at 116.84 374.65 0)
 			(hide yes)
 			(show_name no)
@@ -29055,7 +29055,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 120.9548 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -29137,7 +29137,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 141.732 181.61 90)
 			(hide yes)
 			(show_name no)
@@ -29374,7 +29374,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 140.97 263.1948 0)
 			(hide yes)
 			(show_name no)
